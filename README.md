@@ -6,5 +6,5 @@
 
 ![image](https://github.com/ksnangel/KIBWA/assets/97787719/6f8ec18b-ecf2-4e69-97e4-562618900f48)
 
-참고 사이트 (http://kibwahn.cafe24.com/)서비스
- http://www.kibwa.org/  (
+사이트
+ http://www.kibwa.org/  (호남지회)
